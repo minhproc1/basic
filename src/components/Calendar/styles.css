@@ -1,0 +1,7 @@
+.custom-calendar.react-calendar {
+  width: 100%;
+  border-radius: 24px;
+  border: 1px solid rgba(86, 44, 44, 0.3);
+  background: #fff;
+  box-shadow: 0px 0px 30px 0px rgba(242, 84, 45, 0.1);
+}
