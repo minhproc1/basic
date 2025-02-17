@@ -1,4 +1,3 @@
-import { HTMLProps } from "react";
 import clsx from "clsx";
 import ArrowUpRightGreen from "../../assets/arrow-up-right-green.svg";
 

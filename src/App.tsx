@@ -1,16 +1,15 @@
-import MountainsIcon from "./assets/mountains.svg";
-import CrosshairIcon from "./assets/crosshair.svg";
-import FishingIcon from "./assets/fishing.svg";
 import ArrowUpRight from "./assets/arrow-up-right.svg";
-import ArrowUpRightGreen from "./assets/arrow-up-right-green.svg";
-import ChatIcon from "./assets/chat.svg";
 import CardImageOne from "./assets/card-1.png";
 import CardImageTwo from "./assets/card-2.png";
 import CardImageThree from "./assets/card-3.png";
-import SectionBlock from "./components/shared/SectionBlock";
-import Card from "./components/shared/Card";
-import Map from "./components/Map";
+import ChatIcon from "./assets/chat.svg";
+import CrosshairIcon from "./assets/crosshair.svg";
+import FishingIcon from "./assets/fishing.svg";
+import MountainsIcon from "./assets/mountains.svg";
 import Calendar from "./components/Calendar";
+import Map from "./components/Map";
+import Card from "./components/shared/Card";
+import SectionBlock from "./components/shared/SectionBlock";
 
 function App() {
   return (
